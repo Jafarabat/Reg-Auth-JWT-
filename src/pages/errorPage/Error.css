@@ -1,0 +1,21 @@
+.error{
+    background-color: rgb(173, 183, 199);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.main-error{
+    display: flex;
+    font-size: 7ch;
+    text-align: center;
+
+}
+
+.error-picture{
+    display: flex;
+    margin-left: 10px;
+}
